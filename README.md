@@ -1,6 +1,8 @@
 # Rodrigo Lira
 
-Computer Science student at the **University of São Paulo (USP)**, focused on **Software Engineering, Applied AI, and Automation**. I build practical solutions using LLMs, AI agents, APIs, and backend systems.
+Computer Science student at the **University of São Paulo (USP)**, focused on **Software Engineering, Applied AI, and Automation**.
+
+Beyond software, I have **8+ years of experience in digital content production and creative direction**, with **180M+ views** across online platforms. I combine technical expertise with experience in content strategy, audience engagement, and digital product development.
 
 ## Featured Projects
 
