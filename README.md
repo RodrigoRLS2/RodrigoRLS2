@@ -15,6 +15,12 @@ Beyond software, I have **8+ years of experience in digital content production a
 
 ## Tech Stack
 
-**Python · Java · TypeScript · FastAPI · Spring Boot · PostgreSQL · Docker · n8n · Claude Code · Codex · Ollama**
+**AI & LLMs:** Claude Code, Codex, Ollama, Groq, Prompt Engineering, Structured Outputs, Function Calling
+
+**Agents & Automation:** Multi-Agent Orchestration, n8n, Human-in-the-Loop, CLI Integrations
+
+**Backend & APIs:** Python, Java, FastAPI, Spring Boot, TypeScript, Next.js, REST APIs
+
+**Data & Infrastructure:** PostgreSQL, SQLite, Docker, Git, FFmpeg, Whisper
 
 *Interested in backend engineering, AI-powered products, and intelligent automation.*
